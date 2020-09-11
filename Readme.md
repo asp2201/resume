@@ -1,6 +1,5 @@
 # Ally Peccia
 
-![my_image](rocklady.png)
  <img src= 'rocklady.png' width=100>
  
  My resume.
